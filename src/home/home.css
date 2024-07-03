@@ -1,0 +1,171 @@
+.main__wrapper{
+    height: 20px;
+    width: 900px;
+   
+  }
+  
+  .home{
+    padding: 190px 190px;
+  
+  }
+  
+  .main__lilie{
+    width: 250px;
+    height: 129px;
+    top: 360px;
+    left: 160px;
+  }
+  
+  .Header{
+  width: 1120px;
+  height: 35px;
+  padding: 10px 0px 2px 0px;
+  display: flex;
+  gap: 30px;
+  opacity: 0px;
+  align-items: center;
+  }
+  
+  .first{
+    flex-grow: 1;
+  }
+  
+  
+  .second{
+    display: flex;
+    gap: 20px;
+  }
+  .links {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+  }
+  .first{
+    color: black;
+    font-weight: 600;
+  
+  }
+  .text_t {
+    width: 300px;
+    color: black;
+  }
+  .something{
+    width: 300px;
+    color: #606060;
+  }
+  .main__wrapper{
+    height: 100px;
+  }
+  
+  .left{
+    color: #606060;
+    font-weight: 500;
+    width: 580px;
+    height: 111px;
+    left: 636px;
+    display: flex;
+    gap: 0px;
+    opacity: 0px;
+    
+  
+  }
+  .wrapper{
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .picture{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .ddd{
+    width: 326.21px;
+    height: 20px;
+    margin-top: 160px;
+    display: block;
+    color: black;
+  }
+  .line{
+    border: 1px solid black;
+    margin-top: 110px;
+  }
+  .name{
+    margin-top: 100px;
+  }
+  .texttt{
+    width: 320px;
+  
+  }
+   .ttt{
+    display: flex;
+   }
+  .kkk{
+    color: black;
+  }
+  .ggg{
+    margin-top: 100px;
+    margin-left: 175px;
+  }
+  .sss{
+   width: 300px;
+  }
+  .mmm{
+    margin-top: 100px;
+    font-weight: 500;
+  }
+  .jjj{
+    display: flex;
+  }
+  .jjj{
+    margin-top: 100px;
+  }
+  .project{
+    display: flex;
+    gap: 200px;
+    margin-top: 100px;
+  }
+  
+  .yyy{
+    color: black;
+  }
+  
+  .zzz{
+    margin-top: 100px;
+    
+  }
+  
+  .ppp{
+    color: #2429AF;
+    font-weight: 500;
+  }
+  
+  .bbb{
+    font-weight: 500;
+    text-align: center;
+    margin-left: 350px;
+     width: 20px;
+  }
+  .wrapper_items{
+    margin-top: 100px;
+    gap: 100px;
+    display: flex;
+  }
+  
+  .khk{
+    font-weight: 500;
+    width: 20px;
+  }
+  
+  .ioi{
+    font-weight: 500;
+    width: 20px;
+  }
+  
+  .klkj{
+  font-weight: 500;
+  }
+  
+  .nmnm{
+    margin-left: 175px;
+  }

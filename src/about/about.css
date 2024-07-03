@@ -1,0 +1,135 @@
+.wrapper_mn{
+    height: 20px;
+    width: 900px;
+}
+.about{
+    padding: 190px 190px;
+}
+.Headerrr{
+    width: 1120px;
+    height: 35px;
+    padding: 10px 0px 2px 0px;
+    display: flex;
+    gap: 30px;
+    opacity: 0px;
+    align-items: center;
+}
+.first_mn{    
+    flex-grow: 1;
+}
+.second_mn{
+    display: flex;
+    gap: 20px;
+}
+.main_wr{
+    width: 290px;
+    height: 129px;
+    top: 360px;
+    left: 160px;
+    margin-top: 150px;
+}
+.wvnn{
+    color:#606060;
+    margin-top: 50px;
+    width: 300px ;
+}
+.wwaw{
+    color:#606060;
+    margin-top: 50px;
+    width: 300px ;
+}
+
+.aboutsSecondDiv {
+    display: flex;
+    justify-content: space-around;
+}
+.aboutsImgDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.details {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.aaat{
+ margin-top: 70px;
+}
+
+.ghj{
+color: black;
+margin: 50px;
+
+}
+
+.wqa{
+width: 436px;
+color: black;
+
+}
+
+.oooo{
+color: black;
+width: 213px;
+margin-left: 250px;
+}
+
+.link_second{
+color: black;
+margin: 50px; 
+
+}
+
+.text_third{
+width: 380px;
+color: black;
+margin-left: 70px;
+margin-top: 40px;
+
+}
+
+.hfgf{
+    display: flex;
+}
+
+.line{
+    border: 1px solid black;
+    margin-top: 110px;
+}
+
+.finaly{
+    margin-top: 100px;
+    gap: 100px;
+    display: flex;
+}
+
+.pyt{
+    color: #2429AF;
+    font-weight: 500;
+}
+
+.bkb{
+    font-weight: 500;
+    text-align: center;
+    margin-left: 350px;
+     width: 20px;
+}
+
+.wxk{
+    font-weight: 500;
+    width: 20px;
+}
+
+.lyi{
+    font-weight: 500;
+    width: 20px;
+}
+
+.links{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
